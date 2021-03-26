@@ -63,25 +63,27 @@
 }
 
 #QuienesSomos {
-  background-color: #edebeb;
   border: none;
 }
 #QuienesSomos:hover {
   background-color: #b2ff41;
 }
-
 #Ayuda {
-  background-color: #edebeb;
   border: none;
 }
 #Ayuda:hover {
   background-color: #b2ff41;
 }
 #Registro {
-  background-color: #edebeb;
   border: none;
 }
 #Registro:hover {
+  background-color: #b2ff41;
+}
+#Donar {
+  border: none;
+}
+#Donar:hover {
   background-color: #b2ff41;
 }
 
